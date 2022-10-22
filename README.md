@@ -1,18 +1,18 @@
 ⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙ <br/>
-⦙⦙⦙⦙ Arquitetura com NextJS e Monorepos Front End ⦙⦙⦙⦙
+⦙⦙⦙⦙ Arquitetura com NextJS e Monorepos Front End ⦙⦙⦙⦙ <br/>
 ⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙ <br/>
  <br/>
 ⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙ Preparada para TDD <br/>
  <br/>
 Estrutura multi-projetos 
 pré-preparada com:
-  - TypeScript,
-  - Jest, 
-  - ESlint,
-  - Prettier
-  - Editorcfg
+&#10240  - TypeScript,
+&#10240  - Jest, 
+&#10240  - ESlint,
+&#10240  - Prettier
+&#10240  - Editorcfg
 -----------------------------------  
- * yarn scripts
+&#10240 * yarn scripts
 -----------------------------------  
 (commons - tsconfig | test | eslint)
 ------------------------------------
