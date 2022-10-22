@@ -14,7 +14,7 @@ pré-preparada com:
 ------------------------  
  * yarn scripts
 -----------------------  
-(commons - tsconfig | test | eslint)
+| commons - tsconfig | test | eslint |
 -----------------------
  <br/>
 (example project)
