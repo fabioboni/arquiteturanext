@@ -8,7 +8,7 @@
   ],
   "devDependencies": {
     "jest-styled-components": "7.0.8",
-    "@testing-library/react": "13.2.0",
+    "@testing-library/react": "13.4.0",
     "jest": "27.0.0",
     "ts-node": "10.7.0",
     "babel-jest": "28.0.3",
