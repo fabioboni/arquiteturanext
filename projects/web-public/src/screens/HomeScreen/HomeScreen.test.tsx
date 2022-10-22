@@ -1,4 +1,4 @@
-import { customRender } from "@alura/test-commons/react-testing-library";
+import { customRender } from "@boni/test-commons/react-testing-library";
 import { HomeScreen } from "./HomeScreen";
 
 function CustomWrapper({ children }) {

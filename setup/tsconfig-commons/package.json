@@ -1,5 +1,5 @@
 {
-  "name": "@alura/tsconfig-commons",
+  "name": "@boni/tsconfig-commons",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",

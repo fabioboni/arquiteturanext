@@ -1,5 +1,5 @@
 {
-  "name": "@alura/design-system",
+  "name": "@boni/design-system",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
@@ -11,8 +11,8 @@
     "styled-components": "^5.3.5"
   },
   "devDependencies": {
-    "@alura/test-commons": "*",
-    "@alura/tsconfig-commons": "*",
-    "@alura/eslint-commons": "*"
+    "@boni/test-commons": "*",
+    "@boni/tsconfig-commons": "*",
+    "@boni/eslint-commons": "*"
   }
 }

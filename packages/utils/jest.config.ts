@@ -1,1 +1,1 @@
-export { default } from "@alura/test-commons/base";
+export { default } from "@boni/test-commons/base";

@@ -1,5 +1,5 @@
 import { Text } from "./index";
-import { customRender } from "@alura/test-commons/react-testing-library";
+import { customRender } from "@boni/test-commons/react-testing-library";
 
 const render = customRender();
 

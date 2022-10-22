@@ -19,15 +19,15 @@
   "scripts": {
     "lint": "yarn workspaces run lint",
     "test": "yarn workspaces run test",
-    "web-public": "yarn workspace @alura/web-public",
+    "web-public": "yarn workspace @boni/web-public",
     "dev:web-public": "yarn web-public dev",
     "build:web-public": "yarn web-public build",
     "start:web-public": "yarn web-public start",
     "lint:web-public": "yarn web-public lint",
     "test:web-public": "yarn web-public test",
-    "design-system": "yarn workspace @alura/design-system",
+    "design-system": "yarn workspace @boni/design-system",
     "test:design-system": "yarn design-system test",
-    "utils": "yarn workspace @alura/utils",
+    "utils": "yarn workspace @boni/utils",
     "test:utils": "yarn utils test"
   }
 }

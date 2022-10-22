@@ -1,5 +1,5 @@
 {
-  "name": "@alura/web-public",
+  "name": "@boni/web-public",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
@@ -12,16 +12,16 @@
   },
   "dependencies": {
     "styled-components": "5.3.5",
-    "@alura/design-system": "*",
-    "@alura/utils": "*",
+    "@boni/design-system": "*",
+    "@boni/utils": "*",
     "next": "^12.1.6",
     "react": "^18.1.0",
     "react-dom": "^18.1.0"
   },
   "devDependencies": {
-    "@alura/test-commons": "*",
-    "@alura/tsconfig-commons": "*",
-    "@alura/eslint-commons": "*",
+    "@boni/test-commons": "*",
+    "@boni/tsconfig-commons": "*",
+    "@boni/eslint-commons": "*",
     "next-compose-plugins": "^2.2.1",
     "next-transpile-modules": "^9.0.0"
   }

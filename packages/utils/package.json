@@ -1,5 +1,5 @@
 {
-  "name": "@alura/utils",
+  "name": "@boni/utils",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
@@ -8,8 +8,8 @@
     "lint": "eslint './**/*.{ts,tsx}'"
   },
   "devDependencies": {
-    "@alura/test-commons": "*",
-    "@alura/tsconfig-commons": "*",
-    "@alura/eslint-commons": "*"
+    "@boni/test-commons": "*",
+    "@boni/tsconfig-commons": "*",
+    "@boni/eslint-commons": "*"
   }
 }

@@ -15,7 +15,7 @@ exports[`<HomeScreen /> renders the page 1`] = `
     <p
       class="c0"
     >
-      Importando modulo local: @alura/utils/math/sum sum(2,2): 
+      Importando modulo local: @boni/utils/math/sum sum(2,2): 
       4
     </p>
   </main>
