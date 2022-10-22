@@ -18,7 +18,7 @@ pré-preparada com:
 -----------------------
  <br/>
 (example project)
-Styeled-components 
+Styeled-components  <br/>
  <br/>
 ⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙⦙<br/>
 ⦙⦙⦙⦙ Atualizada Out/2022 ⦙⦙⦙⦙ <br/>
