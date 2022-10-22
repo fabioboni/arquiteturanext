@@ -6,11 +6,11 @@
  <br/>
 Estrutura multi-projetos 
 pré-preparada com:
-&#10240  - TypeScript,
-&#10240  - Jest, 
-&#10240  - ESlint,
-&#10240  - Prettier
-&#10240  - Editorcfg
+ - TypeScript,
+ - Jest, 
+ - ESlint,
+ - Prettier
+ - Editorcfg
 -----------------------------------  
 &#10240 * yarn scripts
 -----------------------------------  
